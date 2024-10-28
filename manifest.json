@@ -1,0 +1,71 @@
+{
+  "files": {
+    "FASTN.ftd": {
+      "name": "FASTN.ftd",
+      "checksum": "2895949CA63AD0D89DD78E82359D8DC88E2FB48BCB21B08AFD8B36F94127CC82",
+      "size": 3230
+    },
+    "README.md": {
+      "name": "README.md",
+      "checksum": "465E7B320730113FA3325965E7FEFC427BAF74282457D8281B1048E3BABD10F9",
+      "size": 1008
+    },
+    "custom.ftd": {
+      "name": "custom.ftd",
+      "checksum": "2BE043B9EEFA3EAC6E8E055C87FA54A1197465669C892A539D7673F67B7A2D0A",
+      "size": 7152
+    },
+    "index.ftd": {
+      "name": "index.ftd",
+      "checksum": "525D676BA62753030B13135CF575C1D7CE49F4E5FC534AC4AED9F3D896977B99",
+      "size": 2318
+    },
+    "static/Merriweather-Sans-300-800-italic-cyrillic-ext.woff2": {
+      "name": "static/Merriweather-Sans-300-800-italic-cyrillic-ext.woff2",
+      "checksum": "379C6521171A5C6B6DEACD75548B531DF4CD6E845BF0D07EB45589FC3306B741",
+      "size": 2180
+    },
+    "static/Merriweather-Sans-300-800-italic-latin-ext.woff2": {
+      "name": "static/Merriweather-Sans-300-800-italic-latin-ext.woff2",
+      "checksum": "8EDB81C678D535450A23AEA3FBB620E10C5C4CDAA22D79008413A7F8B71AE454",
+      "size": 33916
+    },
+    "static/Merriweather-Sans-300-800-italic-latin.woff2": {
+      "name": "static/Merriweather-Sans-300-800-italic-latin.woff2",
+      "checksum": "2736D55A4DA2C1D7E1CEC02B86D6432AABE15A41F5F86803B5FA5FBE3CAE8A64",
+      "size": 37848
+    },
+    "static/Merriweather-Sans-300-800-italic-vietnamese.woff2": {
+      "name": "static/Merriweather-Sans-300-800-italic-vietnamese.woff2",
+      "checksum": "CCB3A910FC93BAD896D09F012A9DE73C05B07621C15A9AC687E575E91FD9525F",
+      "size": 12020
+    },
+    "static/Merriweather-Sans-300-800-normal-cyrillic-ext.woff2": {
+      "name": "static/Merriweather-Sans-300-800-normal-cyrillic-ext.woff2",
+      "checksum": "4DC3169F7BBAB63167238600CCBB84FFC25003D1003156E930ECBDF148752089",
+      "size": 2180
+    },
+    "static/Merriweather-Sans-300-800-normal-latin-ext.woff2": {
+      "name": "static/Merriweather-Sans-300-800-normal-latin-ext.woff2",
+      "checksum": "4C02EE9910CFF7C8F4EADDFE06FED477F13BDB7D97AECD02290ACDCD86E04F6A",
+      "size": 34564
+    },
+    "static/Merriweather-Sans-300-800-normal-latin.woff2": {
+      "name": "static/Merriweather-Sans-300-800-normal-latin.woff2",
+      "checksum": "A8A4A852DEDCC7E3B6BB2C6ACFFAC1A82A31828A00749CE2A8C2D6DD5F268DD9",
+      "size": 38268
+    },
+    "static/Merriweather-Sans-300-800-normal-vietnamese.woff2": {
+      "name": "static/Merriweather-Sans-300-800-normal-vietnamese.woff2",
+      "checksum": "98D02886802BD8D5DEE9008D572806466A2710C4FF95AF9D839CA94B8FD3E37F",
+      "size": 12588
+    },
+    "static/readme.md": {
+      "name": "static/readme.md",
+      "checksum": "01BA4719C80B6FE911B091A7C05124B64EEECE964E09C058EF8F9805DACA546B",
+      "size": 1
+    }
+  },
+  "zip_url": "https://codeload.github.com/midhundas509/merriweathersans-font/zip/refs/heads/main",
+  "checksum": "1FF61219163F6F0FB7B61DB0372C231FE06A1A27D1FE3143D2328FBB40AB2547"
+}
